@@ -1,0 +1,4 @@
+#!C:\Users\Malik Aghiles Tahir\PycharmProjects\Scrapy Test\venv\Scripts\python.exe
+
+from splash.server import main
+main()
